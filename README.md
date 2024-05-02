@@ -23,5 +23,5 @@ Technologies Used
 
 Usage
 
-. Upon running the application, users can register for a new account or login with existing credentials.
-. Once logged in, users can create new bank accounts, deposit funds, withdraw funds, transfer funds between accounts, and view account balances.
+1. Upon running the application, users can register for a new account or login with existing credentials.
+2. Once logged in, users can create new bank accounts, deposit funds, withdraw funds, transfer funds between accounts, and view account balances.
